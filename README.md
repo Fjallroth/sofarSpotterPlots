@@ -16,7 +16,7 @@ pip install pandas matplotlib seaborn windrose numpy
 Run the script using Python 3: python3 sofar_sotter_wave_analysis.py
 When prompted, select the wave data file (including its extension).
 The script will generate plots and save them as PNG files in the same folder as the script.
-Open the generated PNG files to view the plots, or use the text file for further analysis.
+Open the generated PNG files to view the plots for further analysis.
 
 # Plots
 The script generates the following plots:
