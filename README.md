@@ -1,5 +1,5 @@
-# SoFar Sotter Wave Data Visualization
-This Python script reads wave data from the SoFar Sotter wave measurement device and creates various plots based on the input data. The plots help to visualize and analyze the significant wave heights, mean and peak periods, and other parameters.
+# Sofar Sotter Wave Data Visualization
+This Python script reads wave data from the Sofar Sotter wave measurement device and creates various plots based on the input data. The plots help to visualize and analyze the significant wave heights, mean and peak periods, and other parameters.
 
 # Prerequisites
 To run this script, you will need the following Python libraries:
